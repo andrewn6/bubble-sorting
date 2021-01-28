@@ -6,3 +6,9 @@
 pip install pygame
 ```
 
+```
+git clone https://github.com/andrewnijmeh/bubble-sorting
+```
+```
+python app.py
+```
