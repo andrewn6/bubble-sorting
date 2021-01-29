@@ -41,7 +41,7 @@ while True:
     if event.type == pygame.QUIT:
       pygame.quit()
       
-  if counter < (len(h_arr)):
+  if counter < len(h_arr):
     for j in range(len(h_arr)):
       for j in range(len(h_arr) - 1 - counter):
         if h_arr[j] > h_arr[j+1]:
