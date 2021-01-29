@@ -2,12 +2,12 @@ import pygame
 import sys
 import random
 
-WIDTH = 500
-HEIGHT = 500
-win_size = WIDTH, HEIGHT
-
 BLUE = (52,86,139)
 BLACK = (0, 0, 0)
+
+WIDTH = 500
+HEIGHT = 500
+win_size = (WIDTH, HEIGHT)
 
 pygame.init()
 
