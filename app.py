@@ -16,22 +16,18 @@ pygame.display.set_caption('bubbleSortingVisualizer')
 clock = pygame.time.Clock()
 n = 15
 
-# Dividing the width by 15
 w = int(WIDTH/n)
 
-# Setting states/arrays
 h_arr = []
 
 states = []
 
-# Looping arround width divided by 15
 for i in range(w):
   # Creating random height
   height = random.randint(10, 500)
   h_arr.append(height)
   states.append(1)
 
-# Set counter to 0 (default)
 counter = 0
 
 while True:
