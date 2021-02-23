@@ -3,7 +3,7 @@
 > Note: To run this make sure you have pygame installed and at least python3.
 
 ```
-pip install pygame
+pip install -r requirements.txt
 ```
 
 ```
