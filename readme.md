@@ -12,3 +12,5 @@ git clone https://github.com/andrewnijmeh/bubble-sorting
 ```
 python app.py
 ```
+
+credit to @TheCodingGuru for most the code
