@@ -12,3 +12,5 @@ git clone https://github.com/andrewnijmeh/bubble-sorting
 ```
 python app.py
 ```
+
+Thanks to @TheCodingGuru for helping me and explaining how the data structure works.
